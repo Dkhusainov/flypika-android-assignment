@@ -1,0 +1,8 @@
+apply plugin: 'com.android.application'
+apply from: "$rootDir/android-common.gradle"
+
+android.defaultConfig.applicationId "com.flypika.android.assignment"
+
+dependencies {
+  implementation project (":core")
+}

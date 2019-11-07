@@ -1,0 +1,9 @@
+<resources>
+    <string name="screen_pulsometer_title">Пульс</string>
+    <string name="screen_pulsometer_bluetooth_required">Необходим включить Bluetooth</string>
+
+    <string name="screen_pulsometer_search">Поиск устройтсва… 👀</string>
+    <string name="screen_pulsometer_connecting">Подключение… ⌛</string>
+    <string name="screen_pulsometer_connected">Подключено ✔️</string>
+    <string name="screen_pulsometer_error">Ошибка подключения ❌:️ %s</string>
+</resources>
